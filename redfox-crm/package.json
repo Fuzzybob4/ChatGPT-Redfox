@@ -1,0 +1,28 @@
+{
+  "name": "redfox-crm",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@supabase/supabase-js": "2.45.4",
+    "chart.js": "4.4.1",
+    "papaparse": "5.4.1",
+    "stripe": "14.23.0",
+    "leaflet": "1.9.4",
+    "react-leaflet": "4.2.1",
+    "react-leaflet-cluster": "2.1.0"
+  },
+  "devDependencies": {
+    "typescript": "5.4.5",
+    "@types/node": "20.11.30",
+    "@types/react": "18.2.79",
+    "@types/react-dom": "18.2.25"
+  }
+}

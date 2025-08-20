@@ -1,0 +1,2 @@
+-- Storage policies (apply in Supabase Storage SQL editor, after creating bucket 'job-files')
+-- Adjust depending on your storage schema

@@ -1,0 +1,12 @@
+:root {
+  --rf-bg: #0A0907;
+  --rf-ink: #FFFFFF;
+  --rf-ink-dim: rgba(255,255,255,0.82);
+  --rf-red-900: #510603;
+  --rf-red-700: #941A02;
+  --rf-orange-600: #DE3504;
+  --rf-orange-500: #E05D02;
+  --rf-orange-400: #FF9C00;
+  --rf-border: rgba(255,255,255,0.10);
+  --rf-card: rgba(255,255,255,0.04);
+}
